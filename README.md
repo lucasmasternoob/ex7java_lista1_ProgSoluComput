@@ -1,6 +1,15 @@
-## Getting Started
+## Enunciado do Exercício 7 - Lista de Extrutura Sequêncial
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+7 Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+
+## Sobre o Projeto
+
+Este projeto é o `sétimo` exercício proposto pelo professor **Montanha**!
+
+Foi passado como base a lista de _Estrutura Sequencial_ de Python.
+
+Link da lista completa: [Lista de Estrutura Sequencial](https://wiki.python.org.br/EstruturaSequencial)
+
 
 ## Folder Structure
 
